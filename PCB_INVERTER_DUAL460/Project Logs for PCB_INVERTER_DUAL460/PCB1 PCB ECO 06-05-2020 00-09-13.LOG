@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetPH1_2 Pin=R1-1
+Removed Pin From Net: NetName=NetPH2_2 Pin=R2-1
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Added Pin To Net: NetName=NetPH1_2 Pin=Q1-G
+Added Pin To Net: NetName=NetPH2_2 Pin=Q2-G
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Capacitor 4700uF 450V + Power Input

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=PH4 Old Footprint=P. In for 4700uF 450V Cap New Footprint=P. OUT FOR PRIMARY
+Change Component Comment : Designator=PH4 Old Comment=P. In for 4700uF 450V Cap New Comment=P. OUT FOR PRIMARY
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Room: Name=Sheet1

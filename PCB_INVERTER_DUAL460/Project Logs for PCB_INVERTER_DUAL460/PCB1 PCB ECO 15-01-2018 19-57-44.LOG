@@ -1,0 +1,6 @@
+Added Component: Designator=PH4(P. OUT FOR PRIMARY)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetPH1_1 Pin=PH4-1
+Added Pin To Net: NetName=NetC1_1 Pin=PH4-2
+Added Member To Class: ClassName=Sheet1 Member=Component PH4 P. OUT FOR PRIMARY
+Added Room: Name=Sheet1

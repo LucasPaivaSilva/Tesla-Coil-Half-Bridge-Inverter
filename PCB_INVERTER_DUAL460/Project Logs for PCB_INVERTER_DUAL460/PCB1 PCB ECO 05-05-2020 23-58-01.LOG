@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=PH3-1
+Removed Pin From Net: NetName=VCC Pin=PH3-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=VCC Pin=R3-2
+Removed Member From Class: ClassName=Sheet1 Member=PH3
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Change Component Comment : Designator=C3 Old Comment=Capacitor 4700uF 450V New Comment=Capacitor 4700uF 450V + Power Input
