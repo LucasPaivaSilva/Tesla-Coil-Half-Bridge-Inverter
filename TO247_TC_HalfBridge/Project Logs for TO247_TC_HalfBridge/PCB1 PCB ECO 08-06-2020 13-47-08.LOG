@@ -1,0 +1,82 @@
+Added Component: Designator=C1(Capacitor 4700uF 450V RIFA)
+Added Component: Designator=C2(Capacitor 100n (cor verniz))
+Added Component: Designator=C3(Capacitor 100n (cor verniz))
+Added Component: Designator=D1(1.5KE220A)
+Added Component: Designator=D2(1.5KE220A)
+Added Component: Designator=D3(MUR860)
+Added Component: Designator=D4(MUR860)
+Added Component: Designator=D5(1.5KE220A)
+Added Component: Designator=D6(1.5KE220A)
+Added Component: Designator=D7(Diode 8.89mm(350mils))
+Added Component: Designator=D8(Diode 0.4)
+Added Component: Designator=D9(Diode 0.4)
+Added Component: Designator=D10(Diode 8.89mm(350mils))
+Added Component: Designator=D11(Diode 0.4)
+Added Component: Designator=D12(Diode 0.4)
+Added Component: Designator=PH1(PinHead2)
+Added Component: Designator=PH2(PinHead2)
+Added Component: Designator=Q1(HGTG40N60A4)
+Added Component: Designator=Q2(HGTG40N60A4)
+Added Component: Designator=R1(Resistor Axial 0.9(3W))
+Added Component: Designator=R2(Resistor Axial 0.4)
+Added Component: Designator=R3(Resistor Axial 0.4)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D4-3
+Added Pin To Net: NetName=GND Pin=D12-K
+Added Pin To Net: NetName=GND Pin=PH2-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D5-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D6-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD7_A Pin=D7-A
+Added Pin To Net: NetName=NetD7_A Pin=D8-K
+Added Pin To Net: NetName=NetD7_A Pin=Q1-1
+Added Pin To Net: NetName=NetD7_A Pin=R2-2
+Added Net: Name=NetD7_A
+Added Pin To Net: NetName=NetD7_K Pin=D7-K
+Added Pin To Net: NetName=NetD7_K Pin=PH1-2
+Added Pin To Net: NetName=NetD7_K Pin=R2-1
+Added Net: Name=NetD7_K
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_A Pin=D9-A
+Added Net: Name=NetD8_A
+Added Pin To Net: NetName=NetD10_A Pin=D10-A
+Added Pin To Net: NetName=NetD10_A Pin=D11-K
+Added Pin To Net: NetName=NetD10_A Pin=Q2-1
+Added Pin To Net: NetName=NetD10_A Pin=R3-2
+Added Net: Name=NetD10_A
+Added Pin To Net: NetName=NetD10_K Pin=D10-K
+Added Pin To Net: NetName=NetD10_K Pin=PH2-2
+Added Pin To Net: NetName=NetD10_K Pin=R3-1
+Added Net: Name=NetD10_K
+Added Pin To Net: NetName=NetD11_A Pin=D11-A
+Added Pin To Net: NetName=NetD11_A Pin=D12-A
+Added Net: Name=NetD11_A
+Added Pin To Net: NetName=Ouput_QSIDE Pin=D3-3
+Added Pin To Net: NetName=Ouput_QSIDE Pin=D4-1
+Added Pin To Net: NetName=Ouput_QSIDE Pin=D5-1
+Added Pin To Net: NetName=Ouput_QSIDE Pin=D6-2
+Added Pin To Net: NetName=Ouput_QSIDE Pin=D9-K
+Added Pin To Net: NetName=Ouput_QSIDE Pin=PH1-1
+Added Pin To Net: NetName=Ouput_QSIDE Pin=Q1-3
+Added Pin To Net: NetName=Ouput_QSIDE Pin=Q2-2
+Added Net: Name=Ouput_QSIDE
+Added Pin To Net: NetName=Output_CSIDE Pin=C2-1
+Added Pin To Net: NetName=Output_CSIDE Pin=C3-2
+Added Net: Name=Output_CSIDE
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=D3-1
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
