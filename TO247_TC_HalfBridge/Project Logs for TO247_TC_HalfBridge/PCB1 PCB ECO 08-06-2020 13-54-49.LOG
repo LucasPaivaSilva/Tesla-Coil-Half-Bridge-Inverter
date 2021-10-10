@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=VCC Pin=D1-2
-Removed Pin From Net: NetName=GND Pin=D2-1
-Removed Pin From Net: NetName=Ouput_QSIDE Pin=D5-1
-Removed Pin From Net: NetName=Ouput_QSIDE Pin=D6-2
-Removed Member From Class: ClassName=Sheet1 Member=D1
-Removed Member From Class: ClassName=Sheet1 Member=D2
-Removed Member From Class: ClassName=Sheet1 Member=D5
-Removed Member From Class: ClassName=Sheet1 Member=D6
-Added Room: Name=Sheet1
