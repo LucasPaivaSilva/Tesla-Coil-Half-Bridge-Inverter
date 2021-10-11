@@ -1,0 +1,45 @@
+Added Component: Designator=D1(SOD-80)
+Added Component: Designator=D2(SOD-80)
+Added Component: Designator=D3(SOD-80)
+Added Component: Designator=D4(SOD-80)
+Added Component: Designator=H1(Pin Socket 1x2 TH Pitch 2.54mm)
+Added Component: Designator=H2(Pin Socket 1x2 TH Pitch 2.54mm)
+Added Component: Designator=R1(RES_AXIAL_1W)
+Added Component: Designator=R2(RES_AXIAL_1W)
+Added Pin To Net: NetName=Gate A Pin=D1-K
+Added Pin To Net: NetName=Gate A Pin=IGBT1-4
+Added Pin To Net: NetName=Gate A Pin=R1-2
+Added Net: Name=Gate A
+Added Pin To Net: NetName=Gate B Pin=D2-K
+Added Pin To Net: NetName=Gate B Pin=IGBT1-6
+Added Pin To Net: NetName=Gate B Pin=R2-2
+Added Net: Name=Gate B
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=D3-A
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=D4-A
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=Q1+ Pin=H1-2
+Added Pin To Net: NetName=Q1+ Pin=R1-1
+Added Net: Name=Q1+
+Added Pin To Net: NetName=Q1- Pin=D3-K
+Added Pin To Net: NetName=Q1- Pin=H1-1
+Added Pin To Net: NetName=Q1- Pin=IGBT1-5
+Added Net: Name=Q1-
+Added Pin To Net: NetName=Q2+ Pin=D4-K
+Added Pin To Net: NetName=Q2+ Pin=H2-1
+Added Pin To Net: NetName=Q2+ Pin=IGBT1-7
+Added Net: Name=Q2+
+Added Pin To Net: NetName=Q2- Pin=H2-2
+Added Pin To Net: NetName=Q2- Pin=R2-1
+Added Net: Name=Q2-
+Added Member To Class: ClassName=Sheet1 Member=Component D1 V?
+Added Member To Class: ClassName=Sheet1 Member=Component D2 V?
+Added Member To Class: ClassName=Sheet1 Member=Component D3 V?
+Added Member To Class: ClassName=Sheet1 Member=Component D4 V?
+Added Member To Class: ClassName=Sheet1 Member=Component H1 Q1
+Added Member To Class: ClassName=Sheet1 Member=Component H2 Q2
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Valor
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Valor
+Added Room: Name=Sheet1

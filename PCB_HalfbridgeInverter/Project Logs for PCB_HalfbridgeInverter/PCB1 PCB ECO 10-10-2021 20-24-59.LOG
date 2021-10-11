@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Added Component: Designator=CT1(CT206-3A)
+Added Component: Designator=CT2(CT206-3A)
+Added Component: Designator=PH1(PinHead2)
+Added Component: Designator=PH2(PinHead2)
+Added Pin To Net: NetName=NetCT1_1 Pin=CT1-1
+Added Pin To Net: NetName=NetCT1_1 Pin=PH1-2
+Added Net: Name=NetCT1_1
+Added Pin To Net: NetName=NetCT1_2 Pin=CT1-2
+Added Pin To Net: NetName=NetCT1_2 Pin=PH1-1
+Added Net: Name=NetCT1_2
+Added Pin To Net: NetName=NetCT2_1 Pin=CT2-1
+Added Pin To Net: NetName=NetCT2_1 Pin=PH2-2
+Added Net: Name=NetCT2_1
+Added Pin To Net: NetName=NetCT2_2 Pin=CT2-2
+Added Pin To Net: NetName=NetCT2_2 Pin=PH2-1
+Added Net: Name=NetCT2_2
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Capacitor 100n 250V (Verniz)
+Added Member To Class: ClassName=Sheet1 Member=Component CT1 CT206-3A
+Added Member To Class: ClassName=Sheet1 Member=Component CT2 CT206-3A
+Added Member To Class: ClassName=Sheet1 Member=Component PH1 PinHead2
+Added Member To Class: ClassName=Sheet1 Member=Component PH2 PinHead2
+Added Room: Name=Sheet1
